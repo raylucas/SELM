@@ -1,0 +1,256 @@
+body { padding-top: 70px; }
+
+.body-index{
+		background-color: #EFF1EE;
+
+}
+
+.navbar{
+	background-color:#EC9D0B;
+	height:70px;
+	border-color:EC9D0B;
+}
+
+.navbar-inverse{
+	border-color:#EC9D0B;
+}
+
+.navbar-inverse .navbar-toggle{
+	border-color:white;
+	margin-top:20px;
+	text-align:center;
+	
+}
+
+.navbar-inverse .navbar-collapse{
+	background-color:#EC9D0B;
+	border-color:white;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+	border-color:white;
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{
+	background-color:#EC9D0B;
+
+}
+
+.navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+	background-color:#EC9D0B;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+	background-color:#EC9D0B;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a{
+	color:black;
+}
+
+
+.navbar-inverse .navbar-nav .open .dropdown-menu>.dropdown-header{
+	border-color:white;
+}
+
+.navbar-inverse .navbar-form{
+	color:white;
+}
+
+
+.navbar-inverse .navbar-nav>li>a{
+	color:white;
+}
+
+.navbar-brand{
+	padding-top:5px;
+}
+
+.logo{
+	width: 89px;
+    height: 60px;
+}
+
+.dropdown-toggle{
+	color:white;
+	height:70px;
+	font-size:20px;
+}
+
+
+
+.navbar-nav>li>a{
+	padding-top:25px;
+	color:white;
+}
+
+.navbar-form{
+	padding-top:10px;
+}
+
+.dropdown-menu{
+	background-color:#EC9D0B;
+}
+
+li .dropdown-header{
+	color:#989494;
+}
+
+.panel-primary>.panel-heading{
+	background-color:#EC9D0B;
+	border-color:#EC9D0B;
+}
+.panel-primary{
+	border-color:#EC9D0B;
+}
+
+.panel-default>.panel-heading{
+	color:white;
+	background-color:#EC9D0B;
+	border-color:#ddd;
+}
+
+.thumbnail a>img, .thumbnail>img{
+	height:1000px:
+}
+
+@media only screen and (max-width : 5000px){
+	.btn-acessar{
+		background-color:#EC9D0B;
+		margin-top:12px;
+		margin-right:35px;
+		border-color:white;
+	}
+}
+
+@media only screen and (max-width : 768px){
+	.btn-acessar{
+		background-color:#EC9D0B;
+		margin-bottom:10px;
+		margin-left:5px;
+		border-color:white;
+	}
+}
+
+.navbar-inverse .btn-link{
+	color:#545353;
+}
+
+.navbar-inverse .btn-link:hover{
+	color:#545353;
+}
+
+.login-title{
+	color:black;
+}
+
+.form-control{
+	margin-bottom:5px;
+}
+
+.dropdown-login{
+	border-radius:10px;
+	background-color:white;
+}
+
+.form-login{
+	background-color:white;
+	border-color:black;
+    padding: 30px;
+}
+
+.btnAdicionaPerfil{
+    color:white;
+}
+
+.btnAdicionaPerfil:hover{
+    color:white;
+     text-decoration:none; 
+
+}
+
+.navbar-nav .open .dropdown-menu{
+	background-color:white
+}
+
+.jumbotron{
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	padding:30px;
+	background-color: #777;
+}
+
+
+@media only screen and (max-width : 5000px){
+	.gridFotoPerfil{
+		margin-top: 50px;
+		margin-left: 150px;
+	}
+}
+
+@media only screen and (max-width : 768px){
+	.gridFotoPerfil{
+		width:100%;
+		margin-top: 100px;
+		margin-left: 10%;
+	}
+}
+
+.navbar-form .form-control{
+	width:100%;
+}
+
+.divider{
+	color: #5A5A5A;
+}
+
+.background-alimentos{
+	background-color: #EFF1EE;
+	margin-bottom: 60px;
+
+}
+
+.background-bebidas{
+	background-color: white;
+	padding-top: 60px;
+	padding-bottom: 60px;
+
+}
+
+.background-cosmeticos{
+	padding-top: 60px;
+	background-color: #EFF1EE;
+	padding-bottom: 60px;
+
+}
+
+.background-servicos{
+	background-color: white;
+	padding-top: 60px;
+	padding-bottom: 60px;
+
+}
+
+.thumb-impar{
+	background-color: #EFF1EE;
+}
+
+.anuncioFeito{
+    margin-top: 20px;   
+}
+
+.perfil-mini{
+    display: inline-block;
+}
+
+.nome-mini{
+    float: left;
+    margin-right: 25px;
+    margin-top: 18px;
+}
+
+.mini{
+    position: relative;
+    top: -18px;
+}
